@@ -1,0 +1,18 @@
+:root {
+    --primary-color: #19896e;
+    --secondary-color:#0c4437;
+    --tertiary-color: #4e504f;
+
+    --background-color: #282a2b;
+    --header-color: #1c1e1f;
+    --text-color: #f5f5f5;
+
+    --success-color: #41c94d;
+    --success-background-color: #144e19;
+    --danger-color: #d44760;
+    --danger-backgound-color: #581a25;
+    --warning-color: #d2832d;
+    --warning-background-color: #53310d;
+    --info-color: #3283d5;
+    --info-background-color: #0c2d4e;
+}
